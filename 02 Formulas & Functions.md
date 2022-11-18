@@ -1,4 +1,5 @@
 # Chapter2 Formulas 公式 & Functions
+[List of Google Sheets functions](https://support.google.com/docs/table/25273?hl=en)
 
 ## 1. Formulas & Functions definition
 <img width="808" alt="image" src="https://user-images.githubusercontent.com/105503216/196190243-0b9945b5-d26d-4a56-8483-6b081c916b9b.png">   
