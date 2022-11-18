@@ -42,3 +42,8 @@ You can also use
 
 The first entry (F2) refers to the cell where the text is located.   
 The second entry (“-”) refers to the fact that you are dividing the text based on the minus sign.  
+
+### 5.1 Fix the instances of number stored as text
+<img width="231" alt="image" src="https://user-images.githubusercontent.com/105503216/198547338-1a5a34d0-8c51-4d70-ac9f-ff80408141f7.png"><img width="168" alt="image" src="https://user-images.githubusercontent.com/105503216/198547427-72e3ed55-b18a-4928-9264-7bdf3addd828.png">
+
+232" alt="image" src="https://user-images.githubusercontent.com/105503216/198881839-bc6b3360-f665-428d-820f-2111a116a95e.png">  
