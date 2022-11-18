@@ -35,6 +35,10 @@ data > data clean > remove duplicate
 data > split text to columns  
 <img width="444" alt="Screenshot 2022-10-28 at 4 48 49 PM" src="https://user-images.githubusercontent.com/105503216/198545940-0ea38e9a-fc02-48e5-9257-2b96011bda93.png">    
 
-also you can use =SPLIT(F2,"-")    
+You can also use 
+```
+=SPLIT(F2,"-")    
+```
+
 The first entry (F2) refers to the cell where the text is located.   
 The second entry (“-”) refers to the fact that you are dividing the text based on the minus sign.  
