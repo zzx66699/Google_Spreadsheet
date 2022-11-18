@@ -49,3 +49,24 @@ You can also combine three or more columns
 ```
 =CONCATENATE(C2," ",D2,", ",E2)
 ```
+## 8. LEN
+<img width="247" alt="image" src="https://user-images.githubusercontent.com/105503216/198881517-e5e71756-7894-44aa-b910-03870aea11c8.png">  
+often used with conditional formatting to see if the length of a character is right  
+<img width="1262" alt="image" src="https://user-images.githubusercontent.com/105503216/198881557-f71f6efb-77d2-4521-9126-2121a5a78673.png">  
+
+## 9. LEFT & RIGHT & MID
+LEFT/RIGHT(range, number of characters)  
+<img width="302" alt="image" src="https://user-images.githubusercontent.com/105503216/198881649-7f11be21-a3ed-4e1d-814f-e81a7fdde071.png">  
+
+MID(range, reference starting point, number of middle characters)  
+<img width="232" alt="image" src="https://user-images.githubusercontent.com/105503216/198881839-bc6b3360-f665-428d-820f-2111a116a95e.png">  
+
+
+## 10. TRIM
+fix extra spaces   
+<img width="254" alt="image" src="https://user-images.githubusercontent.com/105503216/198883321-286d7137-b6d3-4d13-86ba-c66fd7bbb946.png">  
+
+## 11. COUNTIF
+quickly counts how many items in a range of cells meet a given criterion  
+<img width="765" alt="image" src="https://user-images.githubusercontent.com/105503216/196191178-8042e151-9c08-4946-89f6-479efbb713d9.png">
+<img width="493" alt="image" src="https://user-images.githubusercontent.com/105503216/198881312-9b762541-bd8e-40ea-97cf-3871479e9ebe.png">
