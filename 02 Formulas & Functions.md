@@ -70,3 +70,15 @@ fix extra spaces
 quickly counts how many items in a range of cells meet a given criterion  
 <img width="765" alt="image" src="https://user-images.githubusercontent.com/105503216/196191178-8042e151-9c08-4946-89f6-479efbb713d9.png">
 <img width="493" alt="image" src="https://user-images.githubusercontent.com/105503216/198881312-9b762541-bd8e-40ea-97cf-3871479e9ebe.png">
+
+## 12. FIND
+```
+=FIND("searched value", from xx)
+```
+
+return the FIRST index of target value  
+<img width="619" alt="image" src="https://user-images.githubusercontent.com/105503216/202648027-39de0ca2-a701-43ae-8f4b-93d54ef74ac4.png">  
+
+Extract Date and Time respectively from Datetime  
+<img width="459" alt="image" src="https://user-images.githubusercontent.com/105503216/202647792-b9c05374-06de-4313-aff5-9f99ab672af3.png"><img width="464" alt="image" src="https://user-images.githubusercontent.com/105503216/202647815-015c5c33-bec6-4fa9-9a7a-11075b29f796.png">
+
