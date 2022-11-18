@@ -31,11 +31,11 @@ Data > Data Validation
 data > data clean > remove duplicate   
 <img width="648" alt="image" src="https://user-images.githubusercontent.com/105503216/198545144-c2154bcd-28c4-4c4c-b9cd-58c58046683e.png">
 
-## 5.Split the column
+## 5. Split the column
 data > split text to columns  
 <img width="444" alt="Screenshot 2022-10-28 at 4 48 49 PM" src="https://user-images.githubusercontent.com/105503216/198545940-0ea38e9a-fc02-48e5-9257-2b96011bda93.png">    
 
-You can also use 
+### 5.1 Use SPLIT function
 ```
 =SPLIT(F2,"-")    
 ```
@@ -43,5 +43,5 @@ You can also use
 The first entry (F2) refers to the cell where the text is located.   
 The second entry (“-”) refers to the fact that you are dividing the text based on the minus sign.  
 
-### 5.1 Fix the instances of number stored as text
+### 5.2 Fix the instances of number stored as text
 <img width="231" alt="image" src="https://user-images.githubusercontent.com/105503216/198547338-1a5a34d0-8c51-4d70-ac9f-ff80408141f7.png"><img width="168" alt="image" src="https://user-images.githubusercontent.com/105503216/198547427-72e3ed55-b18a-4928-9264-7bdf3addd828.png">
