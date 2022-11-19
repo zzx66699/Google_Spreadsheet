@@ -26,14 +26,16 @@ deal with div error
 
 
 ## 5. VLOOKUP
-VLOOKUP(data to look up, 'where to look up'!range, return column, false)  
+VLOOKUP(data to look up, 'where to look up'!range, return column, FALSE/TRUE)  
 the return column should be a number, instead of a range  
+TRUE tells VLOOKUP to look for approximate matches, and FALSE tells VLOOKUP to look for exact matches.  
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/105503216/199386870-161e3450-e7be-4dc7-be4c-2471b7476c5e.png">  
 
 ### 5.1 VLOOKUP can only return a value from the data to the right. It can't look left
 get around the problem by copying and pasting a column to the left of the data they want to look at.   
 This way, the lookup value is in the leftmost column and the data they want is to the right of it.   
 <img width="558" alt="image" src="https://user-images.githubusercontent.com/105503216/202825771-e8ad0d12-d878-412d-8ed6-dcee608ae3b3.png">
+
 
 ## 6. SORT
 = SORT(xx:xx, column number, TRUE/FALSE)  
@@ -55,6 +57,7 @@ You can also combine three or more columns
 ```
 =CONCATENATE(C2," ",D2,", ",E2)
 ```
+
 ## 8. LEN
 <img width="247" alt="image" src="https://user-images.githubusercontent.com/105503216/198881517-e5e71756-7894-44aa-b910-03870aea11c8.png">  
 often used with conditional formatting to see if the length of a character is right  
@@ -66,7 +69,6 @@ LEFT/RIGHT(range, number of characters)
 
 MID(range, reference starting point, number of middle characters)  
 <img width="232" alt="image" src="https://user-images.githubusercontent.com/105503216/198881839-bc6b3360-f665-428d-820f-2111a116a95e.png">  
-
 
 ## 10. TRIM
 fix extra spaces   
