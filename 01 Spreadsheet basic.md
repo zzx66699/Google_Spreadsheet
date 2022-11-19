@@ -59,3 +59,8 @@ insert - chart
 ## 14. documentation
 <img width="692" alt="Screenshot 2022-11-13 at 12 11 36 PM" src="https://user-images.githubusercontent.com/105503216/201505312-926e1e6f-5ca9-474a-b141-534fb5d0dfa6.png"><img width="473" alt="image" src="https://user-images.githubusercontent.com/105503216/201505339-68d9c656-1146-4337-b6fe-ab47ab491d15.png">
 
+## 14. Protect the spreadsheet
+Data > Protect sheets and ranges  
+<img width="332" alt="image" src="https://user-images.githubusercontent.com/105503216/202825892-4f71a527-50c1-4487-a008-1025aadcbb91.png"><img width="464" alt="image" src="https://user-images.githubusercontent.com/105503216/202825913-83173e50-6115-4619-a556-256c4c97e4cd.png">
+
+
