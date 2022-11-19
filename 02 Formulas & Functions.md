@@ -30,6 +30,11 @@ VLOOKUP(data to look up, 'where to look up'!range, return column, false)
 the return column should be a number, instead of a range  
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/105503216/199386870-161e3450-e7be-4dc7-be4c-2471b7476c5e.png">  
 
+### 5.1 VLOOKUP can only return a value from the data to the right. It can't look left
+get around the problem by copying and pasting a column to the left of the data they want to look at.   
+This way, the lookup value is in the leftmost column and the data they want is to the right of it.   
+<img width="558" alt="image" src="https://user-images.githubusercontent.com/105503216/202825771-e8ad0d12-d878-412d-8ed6-dcee608ae3b3.png">
+
 ## 6. SORT
 = SORT(xx:xx, column number, TRUE/FALSE)  
 <img width="1268" alt="image" src="https://user-images.githubusercontent.com/105503216/202197185-e4346192-121b-4de4-94a2-20cbd8cb781d.png">
