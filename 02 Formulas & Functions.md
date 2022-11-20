@@ -74,10 +74,13 @@ MID(range, reference starting point, number of middle characters)
 fix extra spaces   
 <img width="254" alt="image" src="https://user-images.githubusercontent.com/105503216/198883321-286d7137-b6d3-4d13-86ba-c66fd7bbb946.png">  
 
-## 11. COUNTIF
+## 11. COUNTIF & COUNTIFS
 quickly counts how many items in a range of cells meet a given criterion  
 <img width="765" alt="image" src="https://user-images.githubusercontent.com/105503216/196191178-8042e151-9c08-4946-89f6-479efbb713d9.png">
-<img width="493" alt="image" src="https://user-images.githubusercontent.com/105503216/198881312-9b762541-bd8e-40ea-97cf-3871479e9ebe.png">
+<img width="493" alt="image" src="https://user-images.githubusercontent.com/105503216/198881312-9b762541-bd8e-40ea-97cf-3871479e9ebe.png">  
+
+COUNTIFS has the same basic syntax as SUMIFS: =COUNTIFS(criteria_range1, criterion1, [criteria_range2, criterion2, ...])  
+<img width="788" alt="image" src="https://user-images.githubusercontent.com/105503216/202903148-db589b3c-f84d-44c0-b4b6-a9d6b463387d.png">
 
 ## 12. FIND
 ```
@@ -90,3 +93,16 @@ return the FIRST index of target value
 Extract Date and Time respectively from Datetime  
 <img width="459" alt="image" src="https://user-images.githubusercontent.com/105503216/202647792-b9c05374-06de-4313-aff5-9f99ab672af3.png"><img width="464" alt="image" src="https://user-images.githubusercontent.com/105503216/202647815-015c5c33-bec6-4fa9-9a7a-11075b29f796.png">
 
+## 13. SUMIF & SUMIFS
+SUMIF(range, criteria/condition, [sum_range])   
+<img width="1211" alt="image" src="https://user-images.githubusercontent.com/105503216/202902443-18601bef-b118-4868-9773-ffa2836d0573.png">   
+
+Calculate the average revenue for transactions include only 1 item  
+<img width="1173" alt="image" src="https://user-images.githubusercontent.com/105503216/202902566-94fffe4a-1aef-4ee4-94d1-d6b571350900.png">   
+
+build in multiple conditions by using the SUMIFS function  
+The basic syntax is: =SUMIFS(sum_range, criteria_range1, criterion1, [criteria_range2, criterion2, ...])  
+<img width="813" alt="image" src="https://user-images.githubusercontent.com/105503216/202903108-dc4de84c-dd49-45e5-9f70-83349e2f5f64.png">
+
+
+ 
