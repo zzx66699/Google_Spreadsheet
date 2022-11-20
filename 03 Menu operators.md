@@ -12,6 +12,9 @@ format > conditional formatting 条件格式
 ### 1.3 Check the date
 <img width="933" alt="image" src="https://user-images.githubusercontent.com/105503216/202628678-d2960859-9e06-498e-a1f5-581ada1d323b.png">
 
+### 1.4 Color scale
+<img width="918" alt="image" src="https://user-images.githubusercontent.com/105503216/202901434-695b860b-1032-4c22-aad1-182d00ddf48a.png">
+
 ## 2. PIVOT TABLE
 <img width="439" alt="image" src="https://user-images.githubusercontent.com/105503216/201504346-a68843c8-ae35-4a40-848c-fa0acb698af8.png">
 <img width="1119" alt="image" src="https://user-images.githubusercontent.com/105503216/201504422-4d36be8f-b80f-4bdc-b812-228f2be3edfe.png">
