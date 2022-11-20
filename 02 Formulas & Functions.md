@@ -94,15 +94,25 @@ Extract Date and Time respectively from Datetime
 <img width="459" alt="image" src="https://user-images.githubusercontent.com/105503216/202647792-b9c05374-06de-4313-aff5-9f99ab672af3.png"><img width="464" alt="image" src="https://user-images.githubusercontent.com/105503216/202647815-015c5c33-bec6-4fa9-9a7a-11075b29f796.png">
 
 ## 13. SUMIF & SUMIFS
-SUMIF(range, criteria/condition, [sum_range])   
+=SUMIF(range, criteria/condition, [sum_range])   
 <img width="1211" alt="image" src="https://user-images.githubusercontent.com/105503216/202902443-18601bef-b118-4868-9773-ffa2836d0573.png">   
 
-Calculate the average revenue for transactions include only 1 item  
-<img width="1173" alt="image" src="https://user-images.githubusercontent.com/105503216/202902566-94fffe4a-1aef-4ee4-94d1-d6b571350900.png">   
-
-build in multiple conditions by using the SUMIFS function   
 =SUMIFS(sum_range, criteria_range1, criterion1, [criteria_range2, criterion2, ...])   
+build in multiple conditions by using the SUMIFS function   
 <img width="813" alt="image" src="https://user-images.githubusercontent.com/105503216/202903108-dc4de84c-dd49-45e5-9f70-83349e2f5f64.png">
 
+## 14. AVERAGEIF
+=AVERAGEIF(range, criteria, [sum_range])  
+<img width="775" alt="image" src="https://user-images.githubusercontent.com/105503216/202904943-d115a10a-4872-443a-8f1a-000fdb6be15a.png">  
 
- 
+## 15. MAXIFS
+=MAXIFS(max_range, range1, criteria1, [range2], [criteria2], ...)
+<img width="790" alt="image" src="https://user-images.githubusercontent.com/105503216/202905113-f33446b4-dcf3-49a6-880d-03eaad5d2ec6.png">
+
+## 16. SUMPRODUCT
+=SUMPRODUCT(array1, array2, array3, ...)  
+multiplication & additional calculations  
+<img width="615" alt="image" src="https://user-images.githubusercontent.com/105503216/202906350-117375e3-b5a5-4286-8908-a0d715b55906.png">  
+<img width="899" alt="image" src="https://user-images.githubusercontent.com/105503216/202906378-64dab671-fb82-43fa-a61e-36c4b0a649d3.png">
+
+
