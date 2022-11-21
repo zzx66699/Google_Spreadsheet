@@ -66,3 +66,7 @@ The second entry (“-”) refers to the fact that you are dividing the text bas
 
 ### 5.2 Fix the instances of number stored as text
 <img width="231" alt="image" src="https://user-images.githubusercontent.com/105503216/198547338-1a5a34d0-8c51-4d70-ac9f-ff80408141f7.png"><img width="168" alt="image" src="https://user-images.githubusercontent.com/105503216/198547427-72e3ed55-b18a-4928-9264-7bdf3addd828.png">
+
+## 5. Insert visualization
+Insert > chart   
+<img width="1337" alt="image" src="https://user-images.githubusercontent.com/105503216/203043543-14d7e3c3-2d90-4e77-9ce1-11d9d591846b.png">
