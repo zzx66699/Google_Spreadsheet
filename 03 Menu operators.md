@@ -16,8 +16,26 @@ format > conditional formatting 条件格式
 <img width="918" alt="image" src="https://user-images.githubusercontent.com/105503216/202901434-695b860b-1032-4c22-aad1-182d00ddf48a.png">
 
 ## 2. PIVOT TABLE
-<img width="439" alt="image" src="https://user-images.githubusercontent.com/105503216/201504346-a68843c8-ae35-4a40-848c-fa0acb698af8.png">
-<img width="1119" alt="image" src="https://user-images.githubusercontent.com/105503216/201504422-4d36be8f-b80f-4bdc-b812-228f2be3edfe.png">
+Insert > Pivot table  
+
+### 2.1 Change the dimension of time  
+<img width="681" alt="image" src="https://user-images.githubusercontent.com/105503216/203010838-c7f315c3-67a8-4651-a7ef-4ce1964b95c9.png"><img width="234" alt="image" src="https://user-images.githubusercontent.com/105503216/203010935-4eb0b3f6-140d-4db0-96cb-913e8d1ae04b.png">
+ 
+### 2.2 Filter the condition 
+remember the condition will apply to all the values!  
+<img width="237" alt="image" src="https://user-images.githubusercontent.com/105503216/203011947-3e9e9c24-d9d0-4307-ba4d-10ed627b3064.png">
+<img width="309" alt="Screenshot 2022-11-21 at 5 17 17 PM" src="https://user-images.githubusercontent.com/105503216/203012217-430b4561-6442-44c9-9db6-d0916c1d4075.png"><img width="324" alt="image" src="https://user-images.githubusercontent.com/105503216/203017872-dba8b068-5f6b-426d-9506-1d840a030dd6.png">
+
+<img width="998" alt="image" src="https://user-images.githubusercontent.com/105503216/203018379-cdb96688-92e0-4edb-8dbe-7477e03c7bf6.png">
+
+
+### 2.3 Sort the rows
+<img width="407" alt="image" src="https://user-images.githubusercontent.com/105503216/203017550-2763a275-b6dc-44fa-b439-1c3297e84a62.png">
+
+### 2.4 Calculate Field
+A calculated field is a new field within a pivot table that carries out certain calculations based on the values of other fields.  
+<img width="361" alt="image" src="https://user-images.githubusercontent.com/105503216/203014494-09bf3380-8ea1-4323-9a3b-29d7e4a2e7d9.png">
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/105503216/203016295-6931263d-b339-4a0b-bb6f-5940ade19db5.png">
 
 ## 3. Data Validation
 Data > Data Validation  
