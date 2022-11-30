@@ -70,16 +70,15 @@ The second entry (“-”) refers to the fact that you are dividing the text bas
 ## 6. Insert visualization
 Insert > chart   
 <img width="1337" alt="image" src="https://user-images.githubusercontent.com/105503216/203043543-14d7e3c3-2d90-4e77-9ce1-11d9d591846b.png">
-### 6.1 Change the chart style
+### 6.1 Change the chart type
 <img width="282" alt="image" src="https://user-images.githubusercontent.com/105503216/204818738-87698e3d-10cf-4977-be5d-def2dac1ea13.png">
 <img width="606" alt="image" src="https://user-images.githubusercontent.com/105503216/204818784-c21998ec-0936-4f7e-8626-1b646a260634.png">
-<img width="702" alt="image" src="https://user-images.githubusercontent.com/105503216/204818942-1409c270-e7e9-4a95-b000-e7df602aa5ec.png">
 
 ### 6.2 Filter in visuals
 <img width="640" alt="image" src="https://user-images.githubusercontent.com/105503216/204820889-de76824e-458e-4bf9-946f-df5cb14eb9d8.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/105503216/204826996-f27753f8-df9c-45a5-bedf-490b29e4ce12.png">
 
 ### 6.3 Chart style
-<img width="598" alt="image" src="https://user-images.githubusercontent.com/105503216/204825009-d2c2ca3d-9032-4315-a3ab-cb28c9eade0a.png">  
 series > fill colour  
 <img width="1227" alt="image" src="https://user-images.githubusercontent.com/105503216/204825611-206420af-7e63-4120-8428-f3e411bc2291.png">
 
