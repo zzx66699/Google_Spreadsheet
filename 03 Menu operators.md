@@ -75,12 +75,13 @@ Insert > chart
 <img width="606" alt="image" src="https://user-images.githubusercontent.com/105503216/204818784-c21998ec-0936-4f7e-8626-1b646a260634.png">
 
 ### 6.2 Filter in visuals
-<img width="640" alt="image" src="https://user-images.githubusercontent.com/105503216/204820889-de76824e-458e-4bf9-946f-df5cb14eb9d8.png">
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/105503216/204826996-f27753f8-df9c-45a5-bedf-490b29e4ce12.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/105503216/204820889-de76824e-458e-4bf9-946f-df5cb14eb9d8.png"><img width="300" alt="image" src="https://user-images.githubusercontent.com/105503216/204826996-f27753f8-df9c-45a5-bedf-490b29e4ce12.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/105503216/204825009-d2c2ca3d-9032-4315-a3ab-cb28c9eade0a.png">  
+
 
 ### 6.3 Chart style
 series > fill colour  
-<img width="1227" alt="image" src="https://user-images.githubusercontent.com/105503216/204825611-206420af-7e63-4120-8428-f3e411bc2291.png">
+<img width="308" alt="image" src="https://user-images.githubusercontent.com/105503216/204827978-c5dd7168-c4b0-46cf-aec7-5039fca23344.png">
 
 
 
