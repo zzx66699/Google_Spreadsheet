@@ -13,6 +13,9 @@ click any cell within the column / select the whole column
 ## 3. adjust the column width
 select all the column you need to adjust  
 drag the boundary of one column  
+### 3.1 auto-fit column width
+select all the column you need to adjust  
+double-click the boundary  
 
 ## 4. freeze header rows
 <img width="707" alt="image" src="https://user-images.githubusercontent.com/105503216/196187811-25ca51c7-d562-47bd-9c8c-b80f06ab1975.png">
