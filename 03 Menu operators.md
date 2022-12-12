@@ -15,6 +15,10 @@ format > conditional formatting 条件格式
 ### 1.4 Color scale
 <img width="918" alt="image" src="https://user-images.githubusercontent.com/105503216/202901434-695b860b-1032-4c22-aad1-182d00ddf48a.png">
 
+### 1.5 Highlight the cells that appear more than once
+<img width="287" alt="image" src="https://user-images.githubusercontent.com/105503216/206954545-2e95303f-8eb1-4877-b232-1b6b406d324d.png">
+<img width="676" alt="image" src="https://user-images.githubusercontent.com/105503216/206954572-2d5eb9cf-5bd8-4e0b-9626-0fb78b5fa7bd.png">
+
 ## 2. PIVOT TABLE
 Insert > Pivot table  
 
