@@ -89,5 +89,8 @@ Insert > chart
 series > fill colour  
 <img width="308" alt="image" src="https://user-images.githubusercontent.com/105503216/204827978-c5dd7168-c4b0-46cf-aec7-5039fca23344.png">
 
+### 6.4 Add series label
+Customize > series > tick data labels   
+<img width="304" alt="image" src="https://user-images.githubusercontent.com/105503216/216357640-8a5e2cab-55a6-4993-b351-cc9278921d84.png">  
 
 
