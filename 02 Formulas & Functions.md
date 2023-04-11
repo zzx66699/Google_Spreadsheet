@@ -79,6 +79,13 @@ quickly counts how many items in a range of cells meet a given criterion
 <img width="765" alt="image" src="https://user-images.githubusercontent.com/105503216/196191178-8042e151-9c08-4946-89f6-479efbb713d9.png">
 <img width="493" alt="image" src="https://user-images.githubusercontent.com/105503216/198881312-9b762541-bd8e-40ea-97cf-3871479e9ebe.png">  
 
+### 11.1 find the value that appears more than one time in a column    
+- in the range ($C$1:$C$4868), how many cells equal to c2   
+- after that, we can use filter to extract the value >= 1
+<img width="885" alt="image" src="https://user-images.githubusercontent.com/105503216/231173956-45eb0322-66c4-4c5f-9bd2-02ca6a89fea5.png">
+<img width="150" alt="image" src="https://user-images.githubusercontent.com/105503216/231174606-ef613b9f-7d70-487a-a72b-09c24f625926.png">
+
+----------
 =COUNTIFS(criteria_range1, criterion1, [criteria_range2, criterion2, ...])  
 <img width="788" alt="image" src="https://user-images.githubusercontent.com/105503216/202903148-db589b3c-f84d-44c0-b4b6-a9d6b463387d.png">
 
