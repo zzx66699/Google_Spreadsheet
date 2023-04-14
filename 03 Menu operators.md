@@ -86,8 +86,16 @@ Insert > chart
 
 
 ### 6.3 Chart style
+- change color  
 series > fill colour  
 <img width="308" alt="image" src="https://user-images.githubusercontent.com/105503216/204827978-c5dd7168-c4b0-46cf-aec7-5039fca23344.png">
+
+- Add point  
+series > point shape & size  
+<img width="298" alt="image" src="https://user-images.githubusercontent.com/105503216/231934995-4fd0ec42-971b-4a77-98f1-7e8903fb9160.png">
+
+
+
 
 ### 6.4 Add series label
 Customize > series > tick data labels   
