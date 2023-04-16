@@ -122,4 +122,19 @@ multiplication & additional calculations
 <img width="615" alt="image" src="https://user-images.githubusercontent.com/105503216/202906350-117375e3-b5a5-4286-8908-a0d715b55906.png">  
 <img width="899" alt="image" src="https://user-images.githubusercontent.com/105503216/202906378-64dab671-fb82-43fa-a61e-36c4b0a649d3.png">
 
+## 17. TEXT
+### 17.1 change the format from 'Year-Month-date' to 'Month(3-letter abbreviation) Year'
+- = TEXT(XX, "format")  
+<img width="334" alt="image" src="https://user-images.githubusercontent.com/105503216/232280234-afd24ac9-df85-41a1-bba3-8cfe3ac2606e.png">  
+
+- copy and paste the value only (google sheet can't recognize this as date)  
+
+<img width="260" alt="image" src="https://user-images.githubusercontent.com/105503216/232280345-9a37e6d5-d25d-4c98-a9d9-eebda1f0308f.png">
+
+- change it into date formate  
+
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/105503216/232280360-f97dbd78-4e58-4cff-a064-c6caf6deafb6.png">
+
+
+
 
